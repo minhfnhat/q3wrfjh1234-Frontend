@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unleash the Adventure with Our Cat-Themed Cars",
+        "title": "Purr-fect Rides for Feline Lovers"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Introducing a groundbreaking way to enhance your car journeys. Our solution addresses your pain points and offers a unique, enjoyable, and private car experience.",
+        "title": "Innovative Automotive Experience"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unleash the Adventure with Our Cat-Themed Cars",
+        "title": "Purr-fect Rides for Feline Lovers"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unleash the Adventure with Our Cat-Themed Cars",
+        "title": "Purr-fect Rides for Feline Lovers"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash the Adventure with Our Cat-Themed Cars",
+        "title": "Purr-fect Rides for Feline Lovers"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unleash the Adventure with Our Cat-Themed Cars",
+        "title": "Purr-fect Rides for Feline Lovers"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unleash the Adventure with Our Cat-Themed Cars",
+        "title": "Purr-fect Rides for Feline Lovers"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash the Adventure with Our Cat-Themed Cars",
+        "title": "Purr-fect Rides for Feline Lovers"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Purr-fect Rides for Feline Lovers",
+  "subtitle": "Unleash the Adventure with Our Cat-Themed Cars"
+}
